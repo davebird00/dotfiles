@@ -1,0 +1,11 @@
+[Default Applications]
+inode/directory=thunar.desktop
+application/x-wayland-gnome-saved-search=thunar.desktop
+text/plain=nvim.desktop
+video/mp4=vlc.desktop
+
+[Added Associations]
+text/plain=nvim.desktop;
+video/mp4=vlc.desktop;
+image/jpeg=org.gnome.Loupe.desktop;
+image/svg+xml=org.gnome.Loupe.desktop;
